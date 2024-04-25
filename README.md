@@ -1,5 +1,5 @@
 Hi, I’m Krishna Mallick 2nd year Software Engineering student at OTU 
-I’m currentely working on a 2D story based vidoe game!
+I’m currentely working on a 2D story based video game!
 
 📫 How to reach me - Email - Krishnamallick46@hotmail.com(work related), Instagram - @krishna_ma_(Anything else!)
 
