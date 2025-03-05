@@ -1,4 +1,4 @@
-<h1>Hi, I’m Krishna Mallick, 2nd year Software Engineering student at OTU</h1>
+<h1>Hi, I’m Krishna Mallick, 3rd year Software Engineering student at OTU</h1>
 <p>I’m currently working on a fitness app that will come with multiple features!</p>
 <hr>
 
